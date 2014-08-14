@@ -1,0 +1,5 @@
+{
+  "name": "spring-mvc-fulfillment-full",
+  "description": "This is a simple web application that uses Spring MVC and the Force.com REST API ",
+  "repository": "https://github.com/Karanraj/spring-mvc-fulfillment-full"
+}
